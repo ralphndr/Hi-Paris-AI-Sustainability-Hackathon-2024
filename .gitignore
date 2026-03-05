@@ -2,3 +2,7 @@ src/data/
 data/
 .venv/
 __pycache__/
+.DS_Store
+**/.DS_Store
+.Rhistory
+**/.Rhistory
