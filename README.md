@@ -1,6 +1,6 @@
 # Hickathon: Water shortage prediction
 
-A machine learning and deep learning pipeline designed to predict groundwater levels and water shortages using piezometric, meteorological, and hydrological data. **This project was selected as a finalist and reached the final pitch.** 🏆
+A machine learning and deep learning model designed to predict groundwater levels and water shortages using piezometric, meteorological, and hydrological data. **This project was selected as a finalist and reached the final pitch.** 🏆
 
 ## 🛠 Environment Setup
 
@@ -23,7 +23,7 @@ To solve the water shortage prediction challenge, we implemented a robust pipeli
 
 ### 1. Data Preprocessing & Engineering
 * **Handling Missing Values:** Used iterative imputation and specialized "fill-nan" logic to maintain temporal consistency in hydrological data.
-* **Categorical Encoding:** Applied **One-Hot Encoding** for static features and **Embeddings** for complex categorical variables to capture higher-dimensional relationships.
+* **Categorical Encoding:** Applied One-Hot Encoding for static features and Embeddings for complex categorical variables to capture higher-dimensional relationships.
 * **Dimensionality Reduction:** Utilized PCA/Autoencoders to condense high-dimensional meteorological inputs while retaining 95% of variance.
 
 ### 2. Model Architectures
