@@ -15,6 +15,7 @@ $ poetry config virtualenvs.in-project true
 
 # 3. Install all dependencies from the poetry.lock file
 $ poetry install
+```
 
 ## 🧠 Machine Learning Methodology
 
